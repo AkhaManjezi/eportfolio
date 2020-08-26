@@ -1272,7 +1272,7 @@ input::-moz-focus-inner {
   font-family: "Gothic A1", sans-serif;
   color: #ffffff;
   font-size: 1.1rem;
-  line-height: 5;
+  line-height: 50;
   background: #000000;
   padding: .8rem .8rem;
   border-radius: 3px;
