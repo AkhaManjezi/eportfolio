@@ -1237,7 +1237,7 @@ input::-moz-focus-inner {
 }
 
 .skill-bars li {
-  height: .4rem;
+  height: 3rem;
   background: #c3c3c3;
   width: 100%;
   margin-bottom: 6.8rem;
@@ -1272,7 +1272,7 @@ input::-moz-focus-inner {
   font-family: "Gothic A1", sans-serif;
   color: #ffffff;
   font-size: 1.1rem;
-  line-height: 50;
+  line-height: 1;
   background: #000000;
   padding: .8rem .8rem;
   border-radius: 3px;
