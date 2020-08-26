@@ -1270,10 +1270,10 @@ input::-moz-focus-inner {
   top: -3.6rem;
   display: block;
   font-family: "Gothic A1", sans-serif;
-  color: #ffffff;
+  color: #000000;
   font-size: 1.1rem;
   line-height: 1;
-  background: #000000;
+  background: #ffffff;
   padding: .8rem .8rem;
   border-radius: 3px;
 }
